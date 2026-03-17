@@ -1,1 +1,0 @@
-# ne-kadar-kaldi-events
