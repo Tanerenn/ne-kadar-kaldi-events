@@ -188,4 +188,15 @@
     "color": "#06B6D4",
     "isDefault": true
   }
+    ,
+  {
+    "id": "github-test-event-1",
+    "title": "GitHub Canlı Yenileme Testi 🚀",
+    "date": "2026-03-25T23:00:00+03:00",
+    "emoji": "📲",
+    "category": "ozel",
+    "color": "#10B981",
+    "isDefault": false
+  }
+
 ]
