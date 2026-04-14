@@ -1,11 +1,29 @@
 [
   {
-    "id": "ramazan-bayrami-2026",
-    "title": "Ramazan Bayramı 2026",
-    "date": "2026-03-20T00:00:00+03:00",
-    "emoji": "🌙",
-    "category": "bayram",
-    "color": "#8B5CF6",
+    "id": "23-nisan-2026",
+    "title": "23 Nisan Ulusal Egemenlik ve Çocuk Bayramı",
+    "date": "2026-04-23T00:00:00+03:00",
+    "emoji": "🇹🇷",
+    "category": "resmi_tatil",
+    "color": "#EF4444",
+    "isDefault": true
+  },
+  {
+    "id": "1-mayis-2026",
+    "title": "1 Mayıs Emek ve Dayanışma Günü",
+    "date": "2026-05-01T00:00:00+03:00",
+    "emoji": "👷",
+    "category": "resmi_tatil",
+    "color": "#EF4444",
+    "isDefault": true
+  },
+  {
+    "id": "19-mayis-2026",
+    "title": "19 Mayıs Atatürk'ü Anma, Gençlik ve Spor Bayramı",
+    "date": "2026-05-19T00:00:00+03:00",
+    "emoji": "🏃",
+    "category": "resmi_tatil",
+    "color": "#EF4444",
     "isDefault": true
   },
   {
@@ -18,48 +36,21 @@
     "isDefault": true
   },
   {
-    "id": "kadir-gecesi-2026",
-    "title": "Kadir Gecesi 2026",
-    "date": "2026-03-14T00:00:00+03:00",
-    "emoji": "🤲",
-    "category": "kandil",
-    "color": "#A78BFA",
+    "id": "lgs-2026",
+    "title": "LGS 2026",
+    "date": "2026-06-07T09:30:00+03:00",
+    "emoji": "📝",
+    "category": "sinav",
+    "color": "#F59E0B",
     "isDefault": true
   },
   {
-    "id": "mevlid-kandili-2026",
-    "title": "Mevlid Kandili 2026",
-    "date": "2026-08-25T00:00:00+03:00",
-    "emoji": "🕌",
-    "category": "kandil",
-    "color": "#A78BFA",
-    "isDefault": true
-  },
-  {
-    "id": "regaib-kandili-2027",
-    "title": "Regaib Kandili 2027",
-    "date": "2027-01-14T00:00:00+03:00",
-    "emoji": "🌟",
-    "category": "kandil",
-    "color": "#A78BFA",
-    "isDefault": true
-  },
-  {
-    "id": "mirac-kandili-2027",
-    "title": "Miraç Kandili 2027",
-    "date": "2027-02-05T00:00:00+03:00",
-    "emoji": "✨",
-    "category": "kandil",
-    "color": "#A78BFA",
-    "isDefault": true
-  },
-  {
-    "id": "berat-kandili-2027",
-    "title": "Berat Kandili 2027",
-    "date": "2027-02-22T00:00:00+03:00",
-    "emoji": "🌙",
-    "category": "kandil",
-    "color": "#A78BFA",
+    "id": "okul-yaz-tatili-2026",
+    "title": "Yaz Tatili Başlangıcı 2026",
+    "date": "2026-06-19T15:00:00+03:00",
+    "emoji": "🏖️",
+    "category": "okul",
+    "color": "#06B6D4",
     "isDefault": true
   },
   {
@@ -90,12 +81,21 @@
     "isDefault": true
   },
   {
-    "id": "lgs-2026",
-    "title": "LGS 2026",
-    "date": "2026-06-07T09:30:00+03:00",
-    "emoji": "📝",
+    "id": "dgs-2026",
+    "title": "DGS 2026",
+    "date": "2026-07-12T10:15:00+03:00",
+    "emoji": "🔄",
     "category": "sinav",
-    "color": "#F59E0B",
+    "color": "#F97316",
+    "isDefault": true
+  },
+  {
+    "id": "15-temmuz-2026",
+    "title": "15 Temmuz Demokrasi ve Milli Birlik Günü",
+    "date": "2026-07-15T00:00:00+03:00",
+    "emoji": "🕊️",
+    "category": "resmi_tatil",
+    "color": "#EF4444",
     "isDefault": true
   },
   {
@@ -108,48 +108,21 @@
     "isDefault": true
   },
   {
-    "id": "ales-2026",
-    "title": "ALES 2026 (Sonbahar)",
-    "date": "2026-11-08T10:15:00+03:00",
-    "emoji": "📊",
-    "category": "sinav",
-    "color": "#F97316",
+    "id": "mevlid-kandili-2026",
+    "title": "Mevlid Kandili 2026",
+    "date": "2026-08-25T00:00:00+03:00",
+    "emoji": "🕌",
+    "category": "kandil",
+    "color": "#A78BFA",
     "isDefault": true
   },
   {
-    "id": "dgs-2026",
-    "title": "DGS 2026",
-    "date": "2026-07-12T10:15:00+03:00",
-    "emoji": "🔄",
-    "category": "sinav",
-    "color": "#F97316",
-    "isDefault": true
-  },
-  {
-    "id": "yds-2026",
-    "title": "YDS 2026 (Sonbahar)",
-    "date": "2026-10-25T10:15:00+03:00",
-    "emoji": "🌍",
-    "category": "sinav",
-    "color": "#F97316",
-    "isDefault": true
-  },
-  {
-    "id": "msu-2027",
-    "title": "MSÜ 2027",
-    "date": "2027-03-01T10:15:00+03:00",
-    "emoji": "🪖",
-    "category": "sinav",
-    "color": "#3B82F6",
-    "isDefault": true
-  },
-  {
-    "id": "okul-yaz-tatili-2026",
-    "title": "Yaz Tatili Başlangıcı 2026",
-    "date": "2026-06-19T15:00:00+03:00",
-    "emoji": "🏖️",
-    "category": "okul",
-    "color": "#06B6D4",
+    "id": "30-agustos-2026",
+    "title": "30 Ağustos Zafer Bayramı",
+    "date": "2026-08-30T00:00:00+03:00",
+    "emoji": "🎖️",
+    "category": "resmi_tatil",
+    "color": "#EF4444",
     "isDefault": true
   },
   {
@@ -162,12 +135,57 @@
     "isDefault": true
   },
   {
+    "id": "yds-2026",
+    "title": "YDS 2026 (Sonbahar)",
+    "date": "2026-10-25T10:15:00+03:00",
+    "emoji": "🌍",
+    "category": "sinav",
+    "color": "#F97316",
+    "isDefault": true
+  },
+  {
+    "id": "29-ekim-2026",
+    "title": "29 Ekim Cumhuriyet Bayramı",
+    "date": "2026-10-29T00:00:00+03:00",
+    "emoji": "🎆",
+    "category": "resmi_tatil",
+    "color": "#EF4444",
+    "isDefault": true
+  },
+  {
+    "id": "ales-2026",
+    "title": "ALES 2026 (Sonbahar)",
+    "date": "2026-11-08T10:15:00+03:00",
+    "emoji": "📊",
+    "category": "sinav",
+    "color": "#F97316",
+    "isDefault": true
+  },
+  {
     "id": "ara-tatil-1-2026",
     "title": "1. Dönem Ara Tatili",
     "date": "2026-11-16T08:30:00+03:00",
     "emoji": "🍂",
     "category": "okul",
     "color": "#06B6D4",
+    "isDefault": true
+  },
+  {
+    "id": "yilbasi-2027",
+    "title": "2027 Yılbaşı",
+    "date": "2027-01-01T00:00:00+03:00",
+    "emoji": "🎄",
+    "category": "ozel_gun",
+    "color": "#10B981",
+    "isDefault": true
+  },
+  {
+    "id": "regaib-kandili-2027",
+    "title": "Regaib Kandili 2027",
+    "date": "2027-01-14T00:00:00+03:00",
+    "emoji": "🌟",
+    "category": "kandil",
+    "color": "#A78BFA",
     "isDefault": true
   },
   {
@@ -180,6 +198,51 @@
     "isDefault": true
   },
   {
+    "id": "mirac-kandili-2027",
+    "title": "Miraç Kandili 2027",
+    "date": "2027-02-05T00:00:00+03:00",
+    "emoji": "✨",
+    "category": "kandil",
+    "color": "#A78BFA",
+    "isDefault": true
+  },
+  {
+    "id": "berat-kandili-2027",
+    "title": "Berat Kandili 2027",
+    "date": "2027-02-22T00:00:00+03:00",
+    "emoji": "🌙",
+    "category": "kandil",
+    "color": "#A78BFA",
+    "isDefault": true
+  },
+  {
+    "id": "msu-2027",
+    "title": "MSÜ 2027",
+    "date": "2027-03-01T10:15:00+03:00",
+    "emoji": "🪖",
+    "category": "sinav",
+    "color": "#3B82F6",
+    "isDefault": true
+  },
+  {
+    "id": "kadir-gecesi-2027",
+    "title": "Kadir Gecesi 2027",
+    "date": "2027-03-05T00:00:00+03:00",
+    "emoji": "🤲",
+    "category": "kandil",
+    "color": "#A78BFA",
+    "isDefault": true
+  },
+  {
+    "id": "ramazan-bayrami-2027",
+    "title": "Ramazan Bayramı 2027",
+    "date": "2027-03-09T00:00:00+03:00",
+    "emoji": "🌙",
+    "category": "bayram",
+    "color": "#8B5CF6",
+    "isDefault": true
+  },
+  {
     "id": "ara-tatil-2-2027",
     "title": "2. Dönem Ara Tatili",
     "date": "2027-04-12T08:30:00+03:00",
@@ -188,5 +251,4 @@
     "color": "#06B6D4",
     "isDefault": true
   }
-
 ]
