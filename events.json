@@ -20,7 +20,7 @@
   {
     "id": "kadir-gecesi-2027",
     "title": "Kadir Gecesi 2027",
-    "date": "2027-03-04T00:00:00+03:00",
+    "date": "2027-03-05T00:00:00+03:00",
     "emoji": "🤲",
     "category": "kandil",
     "color": "#A78BFA",
@@ -29,7 +29,7 @@
   {
     "id": "mevlid-kandili-2026",
     "title": "Mevlid Kandili 2026",
-    "date": "2026-08-25T00:00:00+03:00",
+    "date": "2026-08-24T00:00:00+03:00",
     "emoji": "🕌",
     "category": "kandil",
     "color": "#A78BFA",
@@ -47,7 +47,7 @@
   {
     "id": "mirac-kandili-2027",
     "title": "Miraç Kandili 2027",
-    "date": "2027-02-05T00:00:00+03:00",
+    "date": "2027-02-04T00:00:00+03:00",
     "emoji": "✨",
     "category": "kandil",
     "color": "#A78BFA",
@@ -56,7 +56,7 @@
   {
     "id": "berat-kandili-2027",
     "title": "Berat Kandili 2027",
-    "date": "2027-02-22T00:00:00+03:00",
+    "date": "2027-02-21T00:00:00+03:00",
     "emoji": "🌙",
     "category": "kandil",
     "color": "#A78BFA",
@@ -101,7 +101,7 @@
   {
     "id": "kpss-lisans-2026",
     "title": "KPSS Lisans 2026",
-    "date": "2026-07-25T10:15:00+03:00",
+    "date": "2026-09-06T10:15:00+03:00",
     "emoji": "📋",
     "category": "sinav",
     "color": "#F97316",
@@ -110,7 +110,7 @@
   {
     "id": "ales-2026",
     "title": "ALES 2026 (Sonbahar)",
-    "date": "2026-11-08T10:15:00+03:00",
+    "date": "2026-11-29T10:15:00+03:00",
     "emoji": "📊",
     "category": "sinav",
     "color": "#F97316",
@@ -119,7 +119,7 @@
   {
     "id": "dgs-2026",
     "title": "DGS 2026",
-    "date": "2026-07-12T10:15:00+03:00",
+    "date": "2026-07-19T10:15:00+03:00",
     "emoji": "🔄",
     "category": "sinav",
     "color": "#F97316",
@@ -128,7 +128,7 @@
   {
     "id": "yds-2026",
     "title": "YDS 2026 (Sonbahar)",
-    "date": "2026-10-25T10:15:00+03:00",
+    "date": "2026-11-22T10:15:00+03:00",
     "emoji": "🌍",
     "category": "sinav",
     "color": "#F97316",
@@ -137,7 +137,7 @@
   {
     "id": "msu-2027",
     "title": "MSÜ 2027",
-    "date": "2027-03-01T10:15:00+03:00",
+    "date": "2027-02-28T10:15:00+03:00",
     "emoji": "🪖",
     "category": "sinav",
     "color": "#3B82F6",
@@ -182,7 +182,7 @@
   {
     "id": "ara-tatil-2-2027",
     "title": "2. Dönem Ara Tatili",
-    "date": "2027-04-12T08:30:00+03:00",
+    "date": "2027-03-08T08:30:00+03:00",
     "emoji": "🌸",
     "category": "okul",
     "color": "#06B6D4",
